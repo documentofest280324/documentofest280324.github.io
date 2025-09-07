@@ -1,7 +1,7 @@
 # DOCUMENTO DE LA SONIC FEST 28/03/2024
 ### En este documento se redactará todos los acontecimientos ocurridos en la Sonic Fest de Casa Colombo del día 28/03/2024. Como una imágen vale más que mil palabras, la redacción se llevará a cabo en forma de imágenes
 ## CONTEXTO 
-### Sonic Fest es una fiesta de música de Sonic. Las fiestas tienen mucha energía y están buenísimas. Hacen una fiesta una vez cada tres meses aproximadamente. Las redes para enterarte de la próxima son @sonicfestok en instagram y Youtube. LOS ESPERAMOS LA PRÓXIMA
+### Sonic Fest es una fiesta de música de Sonic. Las fiestas tienen mucha energía y están buenísimas.Están tematizadas con decoraciones y música de Sonic, venden cosas de Sonic y Hacen una fiesta una vez cada tres meses aproximadamente. Las redes para enterarte de la próxima son @sonicfestok en instagram y Youtube. LOS ESPERAMOS LA PRÓXIMA
 
 
 ![Mi logo](i/IMG-20250907-WA0033.jpg)
@@ -98,6 +98,25 @@
 ![Mi logo](i/IMG-20250907-WA0078.jpg)
 
 ![Mi logo](i/IMG-20250907-WA0079.jpg)
+
+
+
+
+
+
+[Visita Sonic Fest](https://instagram.com/sonicfestok)
+[Visita Sonic Fest](https://www.youtube.com/@SonicFestOK/videos))
+
+
+
+
+
+
+
+
+
+
+
 
 
 
