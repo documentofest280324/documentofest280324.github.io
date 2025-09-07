@@ -103,9 +103,42 @@
 
 
 
+## UNITE AL INSTAGRAM:
+[INSTAGRAM Sonic Fest](https://instagram.com/sonicfestok)
 
-[Visita Sonic Fest](https://instagram.com/sonicfestok)
-[Visita Sonic Fest](https://www.youtube.com/@SonicFestOK/videos))
+
+## REVISÁ VIDEOS EN YOUTUBE: 
+[YOUTUBE Sonic Fest](https://www.youtube.com/@SonicFestOK/videos))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
