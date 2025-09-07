@@ -1,9 +1,8 @@
-# H1 Heading
-## H2 Heading
-### H3 Heading
-#### H4 Heading
-##### H5 Heading
-###### H6 Heading
+# DOCUMENTO DE LA SONIC FEST 28/03/2024
+### En este documento se redactará todos los acontecimientos ocurridos en la Sonic Fest de Casa Colombo del día 28/03/2024. Como una imágen vale más que mil palabras, la redacción se llevará a cabo en forma de imágenes
+## CONTEXTO 
+### Sonic Fest es una fiesta de música de Sonic. Las fiestas tienen mucha energía y están buenísimas. Hacen una fiesta una vez cada tres meses aproximadamente. Las redes para enterarte de la próxima son @sonicfestok en instagram y Youtube. LOS ESPERAMOS LA PRÓXIMA
+
 
 ![Mi logo](i/IMG-20250907-WA0033.jpg)
 
@@ -93,8 +92,16 @@
 
 ![Mi logo](i/IMG-20250907-WA0076.jpg)
 
+
 ![Mi logo](i/IMG-20250907-WA0077.jpg)
 
 ![Mi logo](i/IMG-20250907-WA0078.jpg)
 
 ![Mi logo](i/IMG-20250907-WA0079.jpg)
+
+
+
+
+
+
+### sonicfest video fiesta documento documental sonicthehedgehog Sonic SonicTheHedgehog SonicFan SonicFandom SonicFans SonicUniverse SonicCommunity SonicWorld SonicGames SonicSeries SonicParty SonicEvent SonicFestival SonicLovers SonicArt SonicCosplay SonicLife SonicForever SonicFanArt SonicMerch SonicCulture SonicAdventure SonicAdventure2 SonicUnleashed SonicGenerations SonicHeroes SonicRunners SonicRiders SonicColors SonicForces SonicFrontiers SonicAndFriends SonicSpeed SonicRun SonicGaming SegaSonic SonicLevels SonicChallenge SonicCollection SonicRetro Tails Knuckles AmyRose Shadow Silver Rouge DrEggman MetalSonic Blaze Vector Espio Charmy CreamTheRabbit Omega BigTheCat SonicCrew SonicTeam SonicFriends SonicVillains SonicCharacters Speed FastestHedgehog BlueBlur SonicFast SonicAdventureMode SonicRush SonicBoost sonicfestsergindsegasonic SonicStyle SonicPower SonicEnergy SonicMoves SonicTrails SonicRacing SonicAction SonicJump SonicDash SonicSpin SonicLoop SonicNight SonicRave SonicMeetup SonicCosplayParty SonicFansUnite SonicDance SonicMusic SonicDJ SonicCelebration SonicNightlife SonicVibes SonicFun sonicfestfuna SonicCultureEvent SonicClub SonicEvent2025 SonicExperience SonicFiesta SonicVibes SonicMood SonicFanLife SonicCollector SonicFanVideo SonicContent SonicFanCommunity SonicAddict SonicLover funa SonicStyleLife SonicDaily SonicFunTime SonicObsession SonicFever SonicAddiction SonicGamingLife SonicUniverseFans SonicVideos SonicTheHedgehogFans SonicFansWorldwide SonicFansCommunity SonicGamer SegaFans SonicLegacy SonicInternational SonicGamingCommunity SonicCultureWorldwide SonicPartyTime SonicEvent2025 sergindsegasonic SonicFanWorld SonicLifeStyle SonicGamingFans SonicEntertainment
