@@ -47,6 +47,8 @@ _Texto en cursiva_
 
 ---
 
+i/IMG-20250907-WA0033.jpg
+
 ## Código
 
 ### En línea
