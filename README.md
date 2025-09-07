@@ -5,58 +5,96 @@
 ##### H5 Heading
 ###### H6 Heading
 
----
-
-## Horizontal Rules
----
-___
-
-## Emphasis
-**Texto en negrita**  
-__Texto en negrita__  
-
-*Texto en cursiva*  
-_Texto en cursiva_  
-
-~~Texto tachado~~
-
----
-
-## Listas
-
-### Lista desordenada
-- Item 1
-- Item 2
-  - Subitem 2.1
-  - Subitem 2.2
-- Item 3
-
-### Lista ordenada
-1. Primer item
-2. Segundo item
-   1. Subitem
-   2. Subitem
-3. Tercer item
-
----
-
-## Links e Imágenes
-[Ir a Google](https://www.google.com)  
-
-![Logo de ejemplo](https://via.placeholder.com/150)
-
----
-
-
 ![Mi logo](i/IMG-20250907-WA0033.jpg)
 
+![Mi logo](i/IMG-20250907-WA0034.jpg)
 
-## Código
+![Mi logo](i/IMG-20250907-WA0035.jpg)
 
-### En línea
-Aquí un ejemplo de `código en línea`.
+![Mi logo](i/IMG-20250907-WA0036.jpg)
 
-### Bloque de código
-```python
-def hola():
-    print("Hola, GitHub Pages!")
+![Mi logo](i/IMG-20250907-WA0037.jpg)
+
+![Mi logo](i/IMG-20250907-WA0038.jpg)
+
+![Mi logo](i/IMG-20250907-WA0039.jpg)
+
+![Mi logo](i/IMG-20250907-WA0040.jpg)
+
+![Mi logo](i/IMG-20250907-WA0041.jpg)
+
+![Mi logo](i/IMG-20250907-WA0042.jpg)
+
+![Mi logo](i/IMG-20250907-WA0043.jpg)
+
+![Mi logo](i/IMG-20250907-WA0044.jpg)
+
+![Mi logo](i/IMG-20250907-WA0045.jpg)
+
+![Mi logo](i/IMG-20250907-WA0046.jpg)
+
+![Mi logo](i/IMG-20250907-WA0047.jpg)
+
+![Mi logo](i/IMG-20250907-WA0048.jpg)
+
+![Mi logo](i/IMG-20250907-WA0049.jpg)
+
+![Mi logo](i/IMG-20250907-WA0050.jpg)
+
+![Mi logo](i/IMG-20250907-WA0051.jpg)
+
+![Mi logo](i/IMG-20250907-WA0052.jpg)
+
+![Mi logo](i/IMG-20250907-WA0053.jpg)
+
+![Mi logo](i/IMG-20250907-WA0054.jpg)
+
+![Mi logo](i/IMG-20250907-WA0055.jpg)
+
+![Mi logo](i/IMG-20250907-WA0056.jpg)
+
+![Mi logo](i/IMG-20250907-WA0057.jpg)
+
+![Mi logo](i/IMG-20250907-WA0058.jpg)
+
+![Mi logo](i/IMG-20250907-WA0059.jpg)
+
+![Mi logo](i/IMG-20250907-WA0060.jpg)
+
+![Mi logo](i/IMG-20250907-WA0061.jpg)
+
+![Mi logo](i/IMG-20250907-WA0062.jpg)
+
+![Mi logo](i/IMG-20250907-WA0063.jpg)
+
+![Mi logo](i/IMG-20250907-WA0064.jpg)
+
+![Mi logo](i/IMG-20250907-WA0065.jpg)
+
+![Mi logo](i/IMG-20250907-WA0066.jpg)
+
+![Mi logo](i/IMG-20250907-WA0067.jpg)
+
+![Mi logo](i/IMG-20250907-WA0068.jpg)
+
+![Mi logo](i/IMG-20250907-WA0069.jpg)
+
+![Mi logo](i/IMG-20250907-WA0070.jpg)
+
+![Mi logo](i/IMG-20250907-WA0071.jpg)
+
+![Mi logo](i/IMG-20250907-WA0072.jpg)
+
+![Mi logo](i/IMG-20250907-WA0073.jpg)
+
+![Mi logo](i/IMG-20250907-WA0074.jpg)
+
+![Mi logo](i/IMG-20250907-WA0075.jpg)
+
+![Mi logo](i/IMG-20250907-WA0076.jpg)
+
+![Mi logo](i/IMG-20250907-WA0077.jpg)
+
+![Mi logo](i/IMG-20250907-WA0078.jpg)
+
+![Mi logo](i/IMG-20250907-WA0079.jpg)
