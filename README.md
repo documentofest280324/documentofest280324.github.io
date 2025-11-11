@@ -6,7 +6,6 @@ Aquí se publican *comunicados, aclaraciones oficiales, archivos públicos* y ma
 Si estás buscando información relacionada con:
 - "documento de la Sonic Fest"
 - "Sonic Fest documento"
-- "Sonic Fest funa"
 
 Tené en cuenta que *existe contenido no oficial circulando, con datos **incorrectos, descontextualizados, sin pruebas legales ni circunstancialidad judicial de ninguna índole*.  
 La única información válida proviene de los canales oficiales listados acá.
