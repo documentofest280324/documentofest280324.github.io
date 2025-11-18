@@ -22,9 +22,6 @@ Este repositorio existe para:
 - Evitar la difusión de rumores, capturas editadas o contenido manipulado.
 - Garantizar que cualquier consulta dirigida a "Sonic Fest documento" tenga una *fuente legítima*.
 
-## Contacto
-Para consultas formales:
-contacto@sonicfest.com.ar 
 
 ![Mi logo](i/IMG-20250907-WA0033.jpg)
 
